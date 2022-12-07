@@ -15,7 +15,7 @@ export default {
 </template>
 
 <style scoped>
-.h1 {
-  color: rgb(146, 237, 0);
+h1 {
+  background-color: rgb(146, 237, 0);
 }
 </style>
